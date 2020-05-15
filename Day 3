@@ -1,0 +1,6 @@
+The <!DOCTYPE> declaration represents the document type, and helps browsers to display webpages correctly.
+The <html> element defines the whole document.
+Inside the <html> element is the <body> element.The body element defines the document body.
+We can put elements inside other elements too called nesting.
+The <center> tag was used to center-align text in HTML document.
+padding-left, padding-top and other alignments were used to align text in the HTML document.
